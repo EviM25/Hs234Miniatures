@@ -1,0 +1,13 @@
+{
+  "id" : "https://EviM25.github.io/Hs234Miniatures/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in EviM25/Hs234Miniatures project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://EviM25.github.io/Hs234Miniatures/manifests/manifest512.json",
+    "label" : "Hs 234 Miniatures"
+  } ]
+}
