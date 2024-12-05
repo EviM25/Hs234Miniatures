@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://EviM25.github.io/Hs234Miniatures/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in EviM25/Hs234Miniatures project"
+        ]
+    },
+    "items": []
+}
