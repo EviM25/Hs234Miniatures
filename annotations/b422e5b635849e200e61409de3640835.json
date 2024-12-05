@@ -1,0 +1,76 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Depiction of the Side Wound of Christ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Depiction of the Side Wound of Christ</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/190720465",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-12-05T12:29:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733401748571",
+    "dcterms:modified" : "2024-12-05T12:29:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EviM25.github.io/Hs234Miniatures/manifests/manifest512.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=198,590,813,305"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M198.48338,590.03581h406.52046v0h406.52046v152.61893v152.61893h-406.52046h-406.52046v-152.61893z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1d354cda-63e1-47e8-a68f-0e139a9ae872\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://41579409-08e0-4e1b-bf54-e9012db6a553"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initial",
+      "@type" : "oa:Tag",
+      "chars" : "Initial"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initial A",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Initial A</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/190720465",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-12-05T12:29:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733401768592",
+    "dcterms:modified" : "2024-12-05T12:29:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EviM25.github.io/Hs234Miniatures/manifests/manifest512.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=247,905,216,139"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M246.61637,905.30691h108.09591v0h108.09591v69.58951v69.58951h-108.09591h-108.09591v-69.58951z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5695ec5d-c74a-4bfb-82d9-1536b226cff4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://41579409-08e0-4e1b-bf54-e9012db6a553"
+    } ]
+  } ],
+  "@id" : "https://EviM25.github.io/Hs234Miniatures/annotations/b422e5b635849e200e61409de3640835.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
