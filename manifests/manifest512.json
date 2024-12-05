@@ -1,0 +1,116 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://EviM25.github.io/Hs234Miniatures/manifests/manifest512.json",
+  "@type" : "sc:Manifest",
+  "label" : "Hs 234 Miniatures",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Three miniatures in Ms 234",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://0a503924-55a6-4e59-9886-d173d56762a0",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9b4ad6ef-a00c-4643-b1b8-c021389d5d5a",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1872,
+      "width" : 1382,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c97a9759-b6e7-4047-9952-4e53511a5af7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/image/iiif/2/handschriften-17046-full%2fHandschriften_17046_full.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/handschriften-17046-full%2fHandschriften_17046_full.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 2587104,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1872,
+          "width" : 1382
+        },
+        "on" : "http://9b4ad6ef-a00c-4643-b1b8-c021389d5d5a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6ce4741d-9e83-429e-a0ac-696bb46b02a8",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1872,
+      "width" : 1382,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a1e4f113-e409-4712-8226-b9850f373fed",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/image/iiif/2/handschriften-17050-full%2fHandschriften_17050_full.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/handschriften-17050-full%2fHandschriften_17050_full.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 2587104,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1872,
+          "width" : 1382
+        },
+        "on" : "http://6ce4741d-9e83-429e-a0ac-696bb46b02a8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://41579409-08e0-4e1b-bf54-e9012db6a553",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1882,
+      "width" : 1354,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bd0de1ec-79ec-4a4c-a75d-dfe175d6cece",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/image/iiif/2/handschriften-17051-full%2fHandschriften_17051_full.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/handschriften-17051-full%2fHandschriften_17051_full.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 2548228,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1882,
+          "width" : 1354
+        },
+        "on" : "http://41579409-08e0-4e1b-bf54-e9012db6a553"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
