@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://EviM25.github.io/Hs234Miniatures/annotations/989d884b285f4d2191e84a512f1d241d.json" ],
+  "@id" : "https://EviM25.github.io/Hs234Miniatures/annotations/collection.json",
+  "label" : "All annotations loaded in EviM25/Hs234Miniatures project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
